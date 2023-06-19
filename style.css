@@ -1,0 +1,20 @@
+body
+{
+	background: linear-gradient(#38d69c 0%, #38afd6 100%);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: lightsteelblue;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        font-family: 'Dancing Script', cursive;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
